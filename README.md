@@ -1,0 +1,1 @@
+# onesignal-simple-push-notification
